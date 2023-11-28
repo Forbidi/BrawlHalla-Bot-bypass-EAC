@@ -20,7 +20,6 @@ Features:
 - **Play Afks**
 - **Controlss**
     **Config buttons controllers**
-- **Save Configss**
 - **Save Configs**
 
 ## Tier List Script
